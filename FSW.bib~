@@ -1,0 +1,40 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+@article{mishra2005friction,
+  title={Friction stir welding and processing},
+  author={Mishra, Rajiv S and Ma, ZY},
+  journal={Materials Science and Engineering: R: Reports},
+  volume={50},
+  number={1-2},
+  pages={1--78},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{squeo2009friction,
+  title={Friction stir welding of polyethylene sheets},
+  author={Squeo, Erica Anna and Bruno, Giuseppe and Guglielmotti, Alessandro and Quadrini, Fabrizio},
+  journal={The Annals of Dunarea de Jos University of Galati, Technologies in Machine Building},
+  volume={5},
+  pages={241--246},
+  year={2009}
+}
+
+@article{gao2014submerged,
+  title={Submerged friction stir weld of polyethylene sheets},
+  author={Gao, Jicheng and Shen, Yifu and Zhang, Jingqing and Xu, Haisheng},
+  journal={Journal of Applied Polymer Science},
+  volume={131},
+  number={22},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{zafar2017friction,
+  title={Friction Stir Welding of Polymers: An Overview},
+  author={Zafar, Adeel and Awang, M and Khan, Sajjad Raza},
+  booktitle={2nd International Conference on Mechanical, Manufacturing and Process Plant Engineering},
+  pages={19--36},
+  year={2017},
+  organization={Springer}
+}
